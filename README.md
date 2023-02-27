@@ -9,7 +9,7 @@
 - 😄 Pronouns: ⚡🤞.
 <div align="center">
   <a href="https://github.com/megadrity">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MegadrityF&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Megadrity&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megadrity&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
   <div style="display: inline_block"><br>
