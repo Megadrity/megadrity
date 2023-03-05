@@ -6,7 +6,7 @@
 - 🌱 I’m currently Javascript, Html, CSS.
 - �💎 I’m looking to collaborate on email adritypd@gmail.com.
 -✌ I’m looking for help with 🐱‍👓.
-- 😄 Pronouns: ⚡🤞.
+- 😄 Pronouns: ela/dela.
 <div align="center">
   <a href="https://github.com/megadrity">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Megadrity&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
