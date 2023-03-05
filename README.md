@@ -20,9 +20,9 @@
   <img align="center" alt="megadrity-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="megadrity-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="megadrity-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="megadrity-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="megadrity-pic" height="150" style="border-radius:50px;" src=" [##](https://camo.githubusercontent.com/6c83d44cce2207f2ebe74e1164eab7b6c91a6f97912817de565345186914c44f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38662f39312f32382f38663931323839366163343932326461623862633663346333636265646335622e676966)">
 </div>
-  [##](https://camo.githubusercontent.com/6c83d44cce2207f2ebe74e1164eab7b6c91a6f97912817de565345186914c44f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38662f39312f32382f38663931323839366163343932326461623862633663346333636265646335622e676966)
+ 
   <div> 
   <a href="https://www.youtube.com/@megadrity" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/adri_davii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
